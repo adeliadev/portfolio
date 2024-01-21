@@ -7,6 +7,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Mudar background
-- [ ] Carrossel com projetos
-- [ ] Adicionar header
+- [ ] Reponsividade
+- [ ]  Adicionar header
 - [ ] Criar menu de navegação
+- [ ] Carrossel com projetos
