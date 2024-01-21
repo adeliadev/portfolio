@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif
+}
+
+  body{
+    background-color: #0F1710;
+    color: #fff;
+  }
+
+.container{
+    background-color: #223324;
+    width: 30%;
+    height: 70vh;
+    margin: 5em auto;
+    border-radius: 20px;
+    box-shadow: 8px 8px 4px rgba(4, 7, 5, 0.5);
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.icon-perfil{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.cargo{
+    margin-bottom: 10px;
+}
+
+.curriculo button{
+    padding: 10px 30px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: #3B4E3B;
+    border: none;
+    cursor: pointer;
+}
+
+.curriculo button:hover{
+    border: 2px solid #D2E3C8;
+}
+
+.contato{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+}
+
+.contato a{
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.contato a:hover{
+    border: 2px solid #D2E3C8;
+}
